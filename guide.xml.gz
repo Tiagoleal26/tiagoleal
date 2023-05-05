@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Hollywood HD">
+    <display-name lang="pt">Canal Hollywood HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal História">
+    <display-name lang="pt">Canal História</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="1+1">
+    <display-name lang="pt">1+1</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="pt">Euronews</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTP África">
+    <display-name lang="pt">RTP África</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="BVN">
+    <display-name lang="pt">BVN</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TeleSUR">
+    <display-name lang="pt">TeleSUR</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="MCM Top">
+    <display-name lang="pt">MCM Top</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="MTV 00s">
+    <display-name lang="pt">MTV 00s</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="pt">M6</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="pt">Sky News</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="pt">RTL</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ARTE">
+    <display-name lang="pt">ARTE</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Stingray iConcerts HD">
+    <display-name lang="pt">Stingray iConcerts HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="NHK World TV">
+    <display-name lang="pt">NHK World TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FTV HD">
+    <display-name lang="pt">FTV HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVEi">
+    <display-name lang="pt">TVEi</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ARTV">
+    <display-name lang="pt">ARTV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="pt">Mezzo</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">FTV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="pt">CNBC</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TV Galicia">
+    <display-name lang="pt">TV Galicia</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Rai Italia">
+    <display-name lang="pt">Rai Italia</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="pt">Zee TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal 180">
+    <display-name lang="pt">Canal 180</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="pt">Food Network HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Trace Urban HD">
+    <display-name lang="pt">Trace Urban HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Travel Channel HD">
+    <display-name lang="pt">Travel Channel HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Fuel TV HD">
+    <display-name lang="pt">Fuel TV HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVCine EDITION HD">
+    <display-name lang="pt">TVCine EDITION HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="AXN White HD">
+    <display-name lang="pt">AXN White HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTP Memória">
+    <display-name lang="pt">RTP Memória</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="National Geographic WILD HD">
+    <display-name lang="pt">National Geographic WILD HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="pt">Travel Channel</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTP Açores">
+    <display-name lang="pt">RTP Açores</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTP Madeira">
+    <display-name lang="pt">RTP Madeira</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Al Jazeera">
+    <display-name lang="pt">Al Jazeera</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="France 24 (I)">
+    <display-name lang="pt">France 24 (I)</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Globo Now HD">
+    <display-name lang="pt">Globo Now HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FOX Comedy HD">
+    <display-name lang="pt">FOX Comedy HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FOX Crime">
+    <display-name lang="pt">FOX Crime</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="pt">DW</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTR Planeta">
+    <display-name lang="pt">RTR Planeta</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Phoenix CNE">
+    <display-name lang="pt">Phoenix CNE</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Phoenix Infonews">
+    <display-name lang="pt">Phoenix Infonews</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Cubavisión Internacional">
+    <display-name lang="pt">Cubavisión Internacional</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVR Internacional">
+    <display-name lang="pt">TVR Internacional</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="BNT World">
+    <display-name lang="pt">BNT World</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="pt">Eurosport 2</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Caça e Pesca">
+    <display-name lang="pt">Caça e Pesca</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="France 24 (F)">
+    <display-name lang="pt">France 24 (F)</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">National Geographic HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SPORT TV1 HD">
+    <display-name lang="pt">SPORT TV1 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TPA Internacional">
+    <display-name lang="pt">TPA Internacional</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVCine TOP HD">
+    <display-name lang="pt">TVCine TOP HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="MAX">
+    <display-name lang="pt">MAX</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SET Asia">
+    <display-name lang="pt">SET Asia</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="pt">Eurosport 1 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="pt">Russia Today</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="MyZen TV">
+    <display-name lang="pt">MyZen TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVE 24h">
+    <display-name lang="pt">TVE 24h</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="pt">FOX Life HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Biggs">
+    <display-name lang="pt">Biggs</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="pt">FOX Movies</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SPORT TV5 HD">
+    <display-name lang="pt">SPORT TV5 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Toros TV HD">
+    <display-name lang="pt">Toros TV HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SPORT TV2 HD">
+    <display-name lang="pt">SPORT TV2 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SPORT TV3 HD">
+    <display-name lang="pt">SPORT TV3 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="AXN Movies HD">
+    <display-name lang="pt">AXN Movies HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Super RTL">
+    <display-name lang="pt">Super RTL</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="pt">Syfy HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="E! Entertainment HD">
+    <display-name lang="pt">E! Entertainment HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVCine EMOTION HD">
+    <display-name lang="pt">TVCine EMOTION HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVCine ACTION HD">
+    <display-name lang="pt">TVCine ACTION HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Localvisão TV HD">
+    <display-name lang="pt">Localvisão TV HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="KBS World HD">
+    <display-name lang="pt">KBS World HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal Q">
+    <display-name lang="pt">Canal Q</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Fight Network HD">
+    <display-name lang="pt">Fight Network HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TCV Internacional">
+    <display-name lang="pt">TCV Internacional</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FOX Movies HD">
+    <display-name lang="pt">FOX Movies HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="24Kitchen HD">
+    <display-name lang="pt">24Kitchen HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="FOX Crime HD">
+    <display-name lang="pt">FOX Crime HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="BTV1 HD">
+    <display-name lang="pt">BTV1 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SPORT TV4 HD">
+    <display-name lang="pt">SPORT TV4 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Afro Music Channel">
+    <display-name lang="pt">Afro Music Channel</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="pt">CGTN</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="CCTV 4">
+    <display-name lang="pt">CCTV 4</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="STV Notícias">
+    <display-name lang="pt">STV Notícias</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Record TV HD">
+    <display-name lang="pt">Record TV HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Sporting TV HD">
+    <display-name lang="pt">Sporting TV HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Motorvision HD">
+    <display-name lang="pt">Motorvision HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Mezzo Live HD">
+    <display-name lang="pt">Mezzo Live HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="MCM Pop">
+    <display-name lang="pt">MCM Pop</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="DOGTV">
+    <display-name lang="pt">DOGTV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="MTV Portugal HD">
+    <display-name lang="pt">MTV Portugal HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal NOS HD">
+    <display-name lang="pt">Canal NOS HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="AMC Crime">
+    <display-name lang="pt">AMC Crime</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SPORT TV+ HD">
+    <display-name lang="pt">SPORT TV+ HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SIC HD">
+    <display-name lang="pt">SIC HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SIC Notícias HD">
+    <display-name lang="pt">SIC Notícias HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SIC Mulher HD">
+    <display-name lang="pt">SIC Mulher HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SIC Caras HD">
+    <display-name lang="pt">SIC Caras HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SIC Radical HD">
+    <display-name lang="pt">SIC Radical HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Porto Canal HD">
+    <display-name lang="pt">Porto Canal HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="CMTV HD">
+    <display-name lang="pt">CMTV HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Kuriakos TV">
+    <display-name lang="pt">Kuriakos TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ODISSEIA HD">
+    <display-name lang="pt">ODISSEIA HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Sport TV NBA">
+    <display-name lang="pt">Sport TV NBA</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="AMC Break HD">
+    <display-name lang="pt">AMC Break HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="S+ HD">
+    <display-name lang="pt">S+ HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 3">
+    <display-name lang="pt">ELEVEN SPORTS 3</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 4">
+    <display-name lang="pt">ELEVEN SPORTS 4</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 5">
+    <display-name lang="pt">ELEVEN SPORTS 5</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 6">
+    <display-name lang="pt">ELEVEN SPORTS 6</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 1">
+    <display-name lang="pt">ELEVEN SPORTS 1</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 2">
+    <display-name lang="pt">ELEVEN SPORTS 2</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ID Investigation Discovery">
+    <display-name lang="pt">ID Investigation Discovery</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ZAP Viva HD">
+    <display-name lang="pt">ZAP Viva HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="DW (Alemão)">
+    <display-name lang="pt">DW (Alemão)</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Trace Toca">
+    <display-name lang="pt">Trace Toca</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal História HD">
+    <display-name lang="pt">Canal História HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="AMC Crime HD">
+    <display-name lang="pt">AMC Crime HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="NOS Studios HD">
+    <display-name lang="pt">NOS Studios HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="SIC K HD">
+    <display-name lang="pt">SIC K HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTP 2 HD">
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVI HD">
+    <display-name lang="pt">TVI HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="RTP 3 HD">
+    <display-name lang="pt">RTP 3 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="CNN Portugal HD">
+    <display-name lang="pt">CNN Portugal HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="MTV Live">
+    <display-name lang="pt">MTV Live</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="pt">Discovery HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="pt">Eurosport 2 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal 11 HD">
+    <display-name lang="pt">Canal 11 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVI Reality HD">
+    <display-name lang="pt">TVI Reality HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Casa e Cozinha HD">
+    <display-name lang="pt">Casa e Cozinha HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="TVI Ficção HD">
+    <display-name lang="pt">TVI Ficção HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal Galeria">
+    <display-name lang="pt">Canal Galeria</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Canal Panda HD">
+    <display-name lang="pt">Canal Panda HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Panda KIDS">
+    <display-name lang="pt">Panda KIDS</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Sport TV 6 HD">
+    <display-name lang="pt">Sport TV 6 HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Disney Junior HD">
+    <display-name lang="pt">Disney Junior HD</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="pt">Nautical Channel</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Horse TV">
+    <display-name lang="pt">Horse TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Nickelodeon Ukraine Pluto TV">
+    <display-name lang="pt">Nickelodeon Ukraine Pluto TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN EXTRA 1">
+    <display-name lang="pt">ELEVEN EXTRA 1</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN EXTRA 2">
+    <display-name lang="pt">ELEVEN EXTRA 2</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN EXTRA 3">
+    <display-name lang="pt">ELEVEN EXTRA 3</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="ELEVEN EXTRA 4">
+    <display-name lang="pt">ELEVEN EXTRA 4</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="Unifé TV">
+    <display-name lang="pt">Unifé TV</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+</tv>
